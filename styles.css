@@ -1,0 +1,15 @@
+.caja{
+color: blueviolet;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+background-color: yellowgreen;
+
+}
+
+.cajota{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 200px;
+    background-color: rgb(6, 66, 63);
+}
